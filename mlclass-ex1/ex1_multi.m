@@ -24,9 +24,7 @@
 %  learning rates).
 %
 
-%% Initialization
 
-%% ================ Part 1: Feature Normalization ================
 
 %% Clear and Close Figures
 clear all; close all; clc
